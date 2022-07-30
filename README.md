@@ -1,12 +1,11 @@
-### Olá, prazer! Conheça um pouco sobre mim: 👋
+### Olá, prazer :relaxed: Conheça um pouco sobre mim: 
 
-- :briefcase: Sou monitor no Curso Educação Exponencial, 
-fornecido pela ONG Onebyone. Comecei no segundo semestre do ano de 2021 e permaneço até hoje.
-- :books: Fiz, e concluí no ano passado, um curso de programação na ONG Campinho Digital,
- onde hoje faço outro curso de Desenvolvedor WebFullStack.
+- :handshake:	Sou Júlia, tenho 17 anos, estou concluindo o ensino médio (CEBS - RJ), tenho um irmão e uma irmã, que é minha gemea idêntica, ela é PCD e é assistida pela ONG Onebyone.
+- :briefcase: Sou monitor no Curso Educação Exponencial,fornecido pela ONG Onebyone,onde antes fui aluna. Comecei a trabalhar no segundo semestre do ano de 2021, onde permaneço até hoje.
+- :books: Fiz, e concluí no ano passado, um curso de programação na ONG Campinho Digital,onde hoje faço outro curso de Desenvolvedor WebFullStack.
 - :hugs: Pronomes: Ela/Dela.
-- :bulb: Curiosidades: Pretendo me formar em pedagogia, mas estou disponível a 
-trabalhos/cursos em todas as áreas.
+- :bulb: Curiosidades: Pretendo me formar em pedagogia, mas estou disponível a trabalhos/cursos em todas as áreas.
+- :dash:	No meu tempo livre eu gosto de praticar yoga,pilates e estudar o lado espiritual da vida.
 - :telephone_receiver: Contatos:
 <div>
 <a href="https://www.instagram.com/m_julia005/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
