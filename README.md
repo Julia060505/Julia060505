@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, prazer! Conheça um pouco sobre mim: 👋
 
 - :slightly_smiling_face: Sou monitor no Curso Educação Exponencial, 
 fornecido pela ONG Onebyone.
