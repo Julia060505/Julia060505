@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Julia060505/Julia060505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :slightly_smiling_face: Sou monitor no Curso Educação Exponencial, 
+fornecido pela ONG Onebyone.
+- :astonished: Atuamente estou fazendo um curso de programção WebFullStack, na
+ONG Campinho Digital.
+- :hugs: Pronomes: ela/dela.
+- :thinking: Curiosidades: pretendo me formar em pedagogia, mas estou disponível a 
+trabalhos/cursos em todas as áreas. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ _"A nossa felicidade depende mais do que temos nas nossas cabeças,
+ do que nos nossos bolsos"_
+            **_Arthur Schopenhauer_**
